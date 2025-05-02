@@ -1,0 +1,11 @@
+# PHP algos to make me learn PHP
+
+This repository is repo. for me to learn PHP that I have to learn for school (I hate PHP, it's awful). You might learn PHP from this too.
+In this README file will only be things I find weird, hate, interesting etc. In every folder will be one small project you can run, change, redo or whatever
+I don't care ngl.
+
+# HATE!!!
+
+## $
+
+Why is `$` it sucks!!! I always forget to use it. + It's pretty hard to type in on my keyboard layout.
