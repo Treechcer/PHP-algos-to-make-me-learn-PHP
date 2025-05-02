@@ -16,7 +16,10 @@
     $constNum = mt_rand(1,10);
 
     if (isset($_POST["start"])){
-        if ($_POST["guessNum"] == $constNum){
+        if ($_POST["guessNum"] > 10 || $_POST["guessNum"] < 1){
+            echo "numbers should be only in range of 1 to 10";
+        }
+        else if ($_POST["guessNum"] == $constNum){
             echo "you have won";
         }
         else {
