@@ -9,3 +9,7 @@ I don't care ngl.
 ## $
 
 Why is `$` it sucks!!! I always forget to use it. + It's pretty hard to type in on my keyboard layout.
+
+## isset()
+
+Why can't just the submit button (as example) can't be `false` when you don't click it. Like bro what else could it be (except if you're PHP).
