@@ -13,3 +13,7 @@ Why is `$` it sucks!!! I always forget to use it. + It's pretty hard to type in 
 ## isset()
 
 Why can't just the submit button (as example) can't be `false` when you don't click it. Like bro what else could it be (except if you're PHP).
+
+## strlen() != count()
+
+Why? No seriously, why can't it just be the same thing and return length of array or string? Are strings just something else than array of chars? Probably but still...

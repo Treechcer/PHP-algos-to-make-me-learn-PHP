@@ -25,10 +25,6 @@
         else{
             echo "this " . $_POST["text"] . " is not a palindrome";
         }
-
-        /*for ($i = 0; $i < count($temp); $i++){
-            echo $temp[$i];
-        }*/
     }
 
     ?>
