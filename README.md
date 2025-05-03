@@ -28,4 +28,4 @@ Why? No seriously, why can't it just be the same thing and return length of arra
 
 ## . != +
 
-I hate it, this ain't lua bro- [PHP algos to make me learn PHP](#php-algos-to-make-me-learn-php)
+I hate it, this ain't lua bro
