@@ -1,3 +1,11 @@
+- [PHP algos to make me learn PHP](#php-algos-to-make-me-learn-php)
+- [HATE!!!](#hate)
+  - [$](#)
+  - [isset()](#isset)
+  - [strlen() != count()](#strlen--count)
+  - [. != +](#--)
+
+
 # PHP algos to make me learn PHP
 
 This repository is repo. for me to learn PHP that I have to learn for school (I hate PHP, it's awful). You might learn PHP from this too.
@@ -17,3 +25,7 @@ Why can't just the submit button (as example) can't be `false` when you don't cl
 ## strlen() != count()
 
 Why? No seriously, why can't it just be the same thing and return length of array or string? Are strings just something else than array of chars? Probably but still...
+
+## . != +
+
+I hate it, this ain't lua bro- [PHP algos to make me learn PHP](#php-algos-to-make-me-learn-php)
