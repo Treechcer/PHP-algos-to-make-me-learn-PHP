@@ -5,13 +5,16 @@ function sendData(data){
         body : "input=" + encodeURIComponent(data)}) // data sent
     .then(response => response.text()) //after the promiss is okay it will read it as text
     .then(data => console.log(data)); //then it will send it to console
+
+    return data;
 }
 
 var input = "";
+save = [];
 
 while(input != "end"){
     input = prompt("tell me some nuber");
     if (/^\d+$/.test(input)){ //checks the input for only numbers, if only numbers are present it will send the data to server
-        sendData(input);
+        console.log(sendData(input));
     }
 }
