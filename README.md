@@ -4,6 +4,7 @@
   - [isset()](#isset)
   - [strlen() != count()](#strlen--count)
   - [. != +](#--)
+- [realization](#realization)
 
 
 # PHP algos to make me learn PHP
@@ -29,3 +30,7 @@ Why? No seriously, why can't it just be the same thing and return length of arra
 ## . != +
 
 I hate it, this ain't lua bro
+
+# realization
+
+PHP sucks, but I can accept PHP for what it is (bad programming language)
